@@ -1,0 +1,1 @@
+Script printing workig directory
